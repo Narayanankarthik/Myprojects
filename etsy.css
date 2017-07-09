@@ -1,0 +1,27 @@
+table, th, td {
+ 
+    border-collapse: collapse;
+	background-color: ;
+	
+}
+th, td {
+    padding: 5px;
+    text-align: left;    
+}
+
+body {
+    background-color: rgb(139,157,195);
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: Georgia;
+	background-color: Purple;
+    font-size: 20px;
+}
+.rating > span:hover:before {
+   content: "\2605";
+   position: absolute;
+}
